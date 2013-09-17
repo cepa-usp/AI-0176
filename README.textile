@@ -1,0 +1,8 @@
+h1. Free fall
+
+Animation of vertical free fall: grab the ball with mouse and release it or throw it (up or down).
+
+h2. Dependencies
+
+* "Batik toolkit":http://xmlgraphics.apache.org/batik/
+* "CEPALib":https://github.com/cepa-usp/cepalib-java
